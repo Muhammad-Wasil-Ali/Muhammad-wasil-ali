@@ -1,8 +1,31 @@
 ## 🌐 My Portfolio
 Check out my developer portfolio here: https://portfolio-plum-xi-0qrnox5dqj.vercel.app/<br><br>
 # 💫 About Me:
-🛠️ I’m currently working on<br>AI-powered full stack applications (FastAPI + React)<br>Building scalable REST APIs with FastAPI & MongoDB<br><br>
-🤝 I’m looking to collaborate on<br>AI/ML projects (chatbots, recommenders, AI assistants)<br>Open-source backend or full stack projects<br>SaaS products using MERN or FastAPI<br><br>🧠 I’m looking for help with<br>Advanced system design for AI-powered apps<br>Scaling FastAPI and Express apps and async architecture<br><br>🌱 I’m currently learning<br>Generative AI (LLMs, RAG, agents,Fine Tuning)<br>FastAPI + MongoDB with Beanie<br><br>💬 Ask me about<br>MERN Stack (React, Redux Toolkit, Node, Express, MongoDB)<br>API development & authentication (JWT, OAuth)<br>FastAPI vs Express<br>AI integration in web apps<br><br>⚡ Fun fact<br>I overthink everything — but that’s how I learn anything 😄
+
+🛠️ I’m currently working on<br>
+Full stack web applications (MERN & Next.js)<br>
+Building REST APIs with FastAPI & MongoDB<br><br>
+
+🤝 I’m looking to collaborate on<br>
+Full stack (MERN / Next.js) projects<br>
+Backend development using FastAPI<br>
+Open-source projects<br><br>
+
+🧠 I’m looking for help with<br>
+System design<br>
+Scaling backend applications<br><br>
+
+🌱 I’m currently learning<br>
+Generative AI<br><br>
+
+💬 Ask me about<br>
+MERN Stack (React, Node.js, Express, MongoDB)<br>
+Next.js<br>
+Python & FastAPI<br>
+API development & authentication<br><br>
+
+⚡ Fun fact<br>
+I overthink everything — but that’s how I learn anything 😄
 
 
 ## 🌐 Socials:
