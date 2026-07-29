@@ -76,7 +76,7 @@
   <img src="https://raw.githubusercontent.com/Muhammad-Wasil-Ali/Muhammad-Wasil-Ali/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-> **Setup required:** this only renders after you add the GitHub Action below to your profile repo (one-time, ~2 min).
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C7B7&height=120&section=footer"/>
