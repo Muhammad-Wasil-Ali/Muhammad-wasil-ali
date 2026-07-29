@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-cyan-nu-41.vercel.app/api?username=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats-cyan-nu-41.vercel.app/api?username=Muhammad-Wasil-Ali&show_icons=true&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&border_radius=10"/>
   <img height="170" src="https://github-readme-stats-cyan-nu-41.vercel.app/api/top-langs/?username=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=10"/>
 </p>
 
