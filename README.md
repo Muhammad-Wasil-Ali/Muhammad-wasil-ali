@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&border_radius=10"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats-cyan-nu-41.vercel.app/api?username=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats-cyan-nu-41.vercel.app/api/top-langs/?username=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=10"/>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Wasil-Ali&theme=dracula&no-frame=true&row=1&column=6"/>
 </p>
 
-> **Note:** If the stats cards above show a broken image icon, it means the free shared service (`github-readme-stats.vercel.app`) is temporarily rate-limited — this happens often since millions of profiles hit it. Fix: fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy your own copy to your Vercel account (free, ~2 min), then swap the domain in these image URLs to your own `.vercel.app` link. This makes the cards load instantly and reliably every time.
+> These cards now point to your own self-hosted instance (`github-readme-stats-cyan-nu-41.vercel.app`), so they won't get hit by the public instance's rate limits.
 
 ---
 
