@@ -51,24 +51,34 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-cyan-nu-41.vercel.app/api?username=Muhammad-Wasil-Ali&show_icons=true&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&border_radius=10"/>
-  <img height="170" src="https://github-readme-stats-cyan-nu-41.vercel.app/api/top-langs/?username=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Wasil-Ali&theme=dracula&no-frame=true&row=1&column=6"/>
-</p>
-
-> These cards now point to your own self-hosted instance (`github-readme-stats-cyan-nu-41.vercel.app`), so they won't get hit by the public instance's rate limits.
-
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-cyan-nu-41.vercel.app/api?username=Muhammad-Wasil-Ali&show_icons=true&theme=dracula&hide_border=true&border_radius=10&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-cyan-nu-41.vercel.app/api/top-langs/?username=Muhammad-Wasil-Ali&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=8"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Muhammad-Wasil-Ali&theme=dracula&hide_border=true&border_radius=10"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Muhammad-Wasil-Ali&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6"
+  />
+</p>
+
+
 
 ### 🐍 Contribution Snake
 
